@@ -17,6 +17,12 @@
 
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bokorni&theme=youtube-dark&card_width=900)](https://git.io/streak-stats)
+
  
+<h1>My Skills</h1>
+ 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,mysql,figma,bash,git,github,md,vscode,vercel,windows,notion)](https://skillicons.dev)
+
  </div>
  

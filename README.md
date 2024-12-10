@@ -1,9 +1,4 @@
-<img width=100% height=300px bottom=50px src= "https://github.com/bokorni/bokorni/assets/131266284/b5c7bc30-3bdc-470a-9b07-67189c2037b6"/>
-
-<br>
-<br>
-<br>
-<br>
+ 
   
  
 

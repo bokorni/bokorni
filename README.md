@@ -10,8 +10,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amarante&size=26&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=I'm+Lucas+but+everyone+knows+me+as;Bokorni)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bokorni&theme=youtube-dark&short_numbers=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=bokorni&theme=git-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 <h1>My Skills</h1>
  

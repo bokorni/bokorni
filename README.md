@@ -16,7 +16,7 @@
 <h1>My Skills</h1>
  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,mysql,figma,bash,git,github,md,vscode,vercel,windows,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,py,mysql,figma,github,md,vscode,vercel)](https://skillicons.dev)
 
  </div>
  

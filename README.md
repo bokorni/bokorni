@@ -36,6 +36,6 @@ I am interested in best practices, code organization, and creating experiences t
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,py,mysql,figma,github,md,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,py,django,mysql,figma,github,md,vscode,vercel)](https://skillicons.dev)
 
  
